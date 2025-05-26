@@ -77,6 +77,6 @@
 <br>
 
 ## 🎒 Образование
-[<img src="images/diplom.png" width="270px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/diplom.png)
-[<img src="images/stepik-python.png" width="270px" hspace="10px" align="top" alt="Степик-Python»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/stepik-python.png)
-[<img src="images/stepik-java.png" width="270px" hspace="10px" align="top" alt="Степик-Java»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/stepik-java.png)
+[<img src="images/diplom.png" width="250px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/diplom.png)
+[<img src="images/stepik-python.png" width="250px" hspace="10px" align="top" alt="Степик-Python»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/stepik-python.png)
+[<img src="images/stepik-java.png" width="250px" hspace="10px" align="top" alt="Степик-Java»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/stepik-java.png)
