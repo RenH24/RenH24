@@ -74,11 +74,9 @@
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
-
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/diplom.png)
-
-<br>
-<br>
+[<img src="images/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/diplom.png)
+[<img src="images/stepik-python.png" width="280px" hspace="10px" align="top" alt="Степик-Python»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/stepik-python.png)
+[<img src="images/stepik-java.png" width="280px" hspace="10px" align="top" alt="Степик-Java»">](https://raw.githubusercontent.com/RenH24/RenH24/refs/heads/main/images/stepik-java.png)
