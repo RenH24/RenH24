@@ -9,9 +9,6 @@
   <img alt="Top Used Languages" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenH24&hide_progress=true&layout=donut&langs_count=6&card_width=320" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=RenH24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=RenH24)
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
