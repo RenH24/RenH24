@@ -3,12 +3,8 @@
 
 ## 📊 Статистика
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="User Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&username=RenH24&show_icons=true&locale=en&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img alt="Top Used Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenH24&layout=donut&langs_count=6&" />
-</a>
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&card_height=300&username=RenH24)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&card_height=300&langs_count=6&hide_progress=true&username=RenH24)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
