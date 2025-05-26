@@ -4,7 +4,7 @@
 ## 📊 Статистика
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="User Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=250&username=RenH24" />
+  <img alt="User Stats" height=200 src="https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=RenH24" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img alt="Top Used Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=RenH24" />
